@@ -63,7 +63,7 @@ $ yan start
 
 ## 🧾 데이터 전처리 및 결과
 
-![dt](htps://github.com/Jack42chj/Futbolista_FE/assets/86552441/2c53550c-8ee3-490f-b86b-4fbbd9c0aa08)
+![dt](https://github.com/Jack42chj/Futbolista_FE/assets/86552441/2c53550c-8ee3-490f-b86b-4fbbd9c0aa08)
 
 - Length(길이): 축구화의 총 길이(mm) * 1,000,000
 - Width(너비): 축구화의 최대 발 볼 넓이(mm) * 1,000,000
