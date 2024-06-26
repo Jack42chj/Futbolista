@@ -1,4 +1,4 @@
-# ⚽ 내 발에 맞는 축구화 찾기 웹/앱 서비스 Futbolista
+# ⚽ Futbolista - 내 발에 맞는 나만의 축구화 찾기 서비스 
 
 ![logo](https://github.com/Jack42chj/Futbolista_FE/assets/86552441/37adcfe1-78af-47bf-af66-50055a478f71)
 
