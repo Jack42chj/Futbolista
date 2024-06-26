@@ -2,14 +2,6 @@
 
 ![logo](https://github.com/Jack42chj/Futbolista_FE/assets/86552441/37adcfe1-78af-47bf-af66-50055a478f71)
 
-## 💡 실행 방법(Installation)
-
-```bash
-$ cd Futbolista_FE-master
-$ yarn
-$ yan start
-```
-
 ## 🖥️ 서비스 소개(Introduction)
 
 ![service](https://github.com/Jack42chj/Futbolista_FE/assets/86552441/1a931623-af13-4334-b09d-fc2330c8d626)
@@ -214,3 +206,4 @@ futbolista
 #### 🔍 축구화 정보 조회(Search)
 
 -   다양한 브랜드의 축구화 정보 제공
+-   
